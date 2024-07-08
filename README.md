@@ -22,3 +22,4 @@
 - [x] Lucel Da Silva
 - [x] Alejandro Villalba
 - [x] Hernán Pizarro
+- [x] Fernando Marquez
