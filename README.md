@@ -4,3 +4,4 @@
 - [x] Óscar Rico
 - [x] Lucel Da Silva
 - [x] Alejandro Villalba
+- [x] Hernán Pizarro
