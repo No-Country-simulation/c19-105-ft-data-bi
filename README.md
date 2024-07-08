@@ -3,11 +3,11 @@
 
 ### Airbnb User:
 
-1. Como usuario de Airbnb, quiero ver las valoraciones y reseñas de Yelp de restaurantes cercanos al alojamiento, para poder elegir un lugar para comer con confianza.
+1. Como usuario de Airbnb, quiero ver las valoraciones y reseñas de Yelp de restaurantes cercanos al alojamiento, para poder elegir un lugar para comer.
 
-2. Como usuario de Airbnb, quiero recibir recomendaciones personalizadas de restaurantes y atracciones basadas en mis preferencias, para maximizar mi experiencia durante la estancia.
+2. Como usuario de Airbnb, quiero recibir recomendaciones personalizadas de restaurantes y atracciones basadas en mis preferencias.
 
-3. Como usuario frecuente de Airbnb y Yelp, quiero guardar mis lugares favoritos en una lista personalizada, para poder acceder fácilmente a ellos en futuras visitas.
+3. Como usuario frecuente de Airbnb, quiero guardar mis lugares favoritos en una lista personalizada, para poder acceder fácilmente a ellos en futuras visitas.
 
 ### Airbnb Host:
 
