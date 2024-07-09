@@ -9,6 +9,13 @@
 
 3. Como usuario frecuente de Airbnb, quiero guardar mis lugares favoritos en una lista personalizada, para poder acceder fácilmente a ellos en futuras visitas.
 
+4. Como usuario de Airbnb, quiero saber que negocios tengo abierto las 24 hs en un determinado radio de mi lugar de alojamiento.
+
+5. Como usuario de Airbnb, quiero saber si el mobiliario urbano cerca de mi alojamiento esta adaptado para personas mayores y discapacitados.
+
+6. Como usuario de Airbnb, quiero saber si cerca de mi alojamiento hay espacios para realizar ejercicios al aire libre.
+
+
 ### Airbnb Host:
 
 1. Como host de Airbnb que quiere aumentar sus hospedajes, quiero ver estadísticas y análisis sobre la demanda en mi área, para optimizar mis tarifas y estrategias de marketing.
