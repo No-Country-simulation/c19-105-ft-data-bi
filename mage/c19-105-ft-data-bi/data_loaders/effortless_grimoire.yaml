@@ -1,0 +1,10 @@
+config:
+  columns: null
+  headers: null
+  method: GET
+  payload: null
+  query: null
+  response_parser: null
+  url: null
+source: api
+catalog: {}
