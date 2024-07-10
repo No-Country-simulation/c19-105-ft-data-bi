@@ -30,3 +30,4 @@
 - [x] Alejandro Villalba
 - [x] Hernán Pizarro
 - [x] Bruno Olivera 
+- [x] Franco Aguilera
