@@ -1,33 +1,48 @@
-# c19-105-ft-data-bi
-## User Stories
+**<p align="center">Proyecto de Data-BI de No Country . c19-105-ft-data-bi</p>**
 
-### Airbnb User:
+<img src="Photo\nueva_york.jpg" width="1010" height="250">
 
-1. Como usuario de Airbnb, quiero ver las valoraciones y reseñas de Yelp de restaurantes cercanos al alojamiento, para poder elegir un lugar para comer.
-
-2. Como usuario de Airbnb, quiero recibir recomendaciones personalizadas de restaurantes y atracciones basadas en mis preferencias.
-
-3. Como usuario frecuente de Airbnb, quiero guardar mis lugares favoritos en una lista personalizada, para poder acceder fácilmente a ellos en futuras visitas.
-
-4. Como usuario de Airbnb, quiero saber que negocios tengo abierto las 24 hs en un determinado radio de mi lugar de alojamiento.
-
-5. Como usuario de Airbnb, quiero saber si el mobiliario urbano cerca de mi alojamiento esta adaptado para personas mayores y discapacitados.
-
-6. Como usuario de Airbnb, quiero saber si cerca de mi alojamiento hay espacios para realizar ejercicios al aire libre.
+#  **<p align="center">Análisis sobre la Relación entre Hospedajes y Servicios Locales en la Ciudad de Nueva York</p>**
 
 
-### Airbnb Host:
+### **1- Industria.**
+- Tecnología de la Información y Ciencia de Datos.
+- Turismo y Alojamientos.
 
-1. Como host de Airbnb que quiere aumentar sus hospedajes, quiero ver estadísticas y análisis sobre la demanda en mi área, para optimizar mis tarifas y estrategias de marketing.
 
-2. Como host de Airbnb, quiero recibir alertas sobre cambios significativos en la demanda o en el mercado de alquileres de mi zona, para poder reaccionar rápidamente.
+### **2- Descripción del proyecto.**
+El proyecto utiliza datos de las plataformas Airbnb y Yelp generados en la ciudad de Nueva York (Estados Unidos) teniendo como objetivo analizar la relación entre estos datos y proporcionar insights valisos que puedan ayudar a los usuarios, propietarios de alojamientos, negocios locales y responsables de políticas turísticas. 
 
-3. Como host de Airbnb, quiero comparar el rendimiento de todas mis propiedades en una sola vista, para identificar cuáles son las más rentables y cuáles necesitan mejoras.
+### **3- Insights.**
 
-## Colaboradores
-- [x] Óscar Rico
-- [x] Lucel Da Silva
-- [x] Alejandro Villalba
-- [x] Hernán Pizarro
-- [x] Bruno Olivera 
-- [x] Franco Aguilera
+<img src="Photo\Airbnb.png" width="250" height="75">
+<img src="Photo\yelp.png" width="250" height="95">
+
+### **4- Colaboradores.**
+El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto.
+
+**Grupo c19-105-ft-data-bi:**
+  - Franco Aguilera:  Data engineer / Data scientist [Linkedin](https://www.linkedin.com/in/franco-aguilera-0686ba255/)
+  - Oscar Rico:  Data engineer / Data scientist [Linkedin](https://www.linkedin.com/in/orr21/)
+  - Alejandro Villalba: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/alevillalba/) 
+  - Bruno Olivera: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/bruno-olivera-6837a5196/)
+  - Hernán Pizarro: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/)
+  - Lucel Da Silva: Data scientist / Data analyst [Linkedin](https://www.linkedin.com/in/luceldasilva/) 
+
+**No Country:**
+ - Pablo Fragoso Valdez: Team Leader [Linkedin]()
+
+
+### **5- Tecnologías utilizadas.**
+- Herramientas de BI: Power BI.
+- Lenguajes de Programación: Python | SQL | DAX.
+- Herramientas de Big Data: Hadoop | Spark | Apache Kafka.
+- Bases de Datos: MySQL | PostgreSQL.
+- Nube: Drive.
+
+
+### **6- Enlaces del Proyecto.**
+- Dashboard: [Power BI]()
+- Datasets: [Airbnb](https://insideairbnb.com/) y [Yelp](https://www.yelp.com/dataset)
+- Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
+- Registro de reuniones: [Word]()
