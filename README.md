@@ -13,7 +13,7 @@
 ### **2- Descripción del proyecto.**
 El proyecto utiliza datos de las plataformas Airbnb y Yelp generados en la ciudad de Nueva York (Estados Unidos) teniendo como objetivo analizar la relación entre estos datos y proporcionar insights valisos que puedan ayudar a los usuarios, propietarios de alojamientos, negocios locales y responsables de políticas turísticas. 
 
-La ciudad de Nueva York abarca cinco divisiones administrativas a nivel de condado llamadas boroughs: El Bronx, Brooklyn, Manhattan, Queens y Staten Island.
+La ciudad de Nueva York (imagen izquierda) abarca cinco divisiones administrativas a nivel de condado llamadas boroughs: El Bronx, Brooklyn (imagen derecha), Manhattan, Queens y Staten Island.
 
 <img src="Photo\mapsNY.jpg" width="1010" height="300">
 
