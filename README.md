@@ -19,7 +19,7 @@ La ciudad de Nueva York abarca cinco divisiones administrativas a nivel de conda
 
 ### **3- Insights.**
 
-<img src="Photo\dato_airbnb.jpg" width="1010" height="500">
+<img src="Photo\dato_airbnb.jpg" width="1010" height="600">
 
 ### **4- Colaboradores.**
 El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto.
