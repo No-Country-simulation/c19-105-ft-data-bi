@@ -48,4 +48,4 @@ El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto
 - Dashboard: [Power BI]()
 - Datasets: [Airbnb](https://insideairbnb.com/) y [Yelp](https://www.yelp.com/dataset)
 - Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
-- Registro de reuniones: [PDF](Actividades semanales.pdf)
+- Registro de reuniones: [PDF](https://github.com/No-Country-simulation/c19-105-ft-data-bi/blob/main/Actividades%20semanales.pdf)
