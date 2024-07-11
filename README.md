@@ -1,6 +1,6 @@
 **<p align="center">Proyecto de Data-BI de No Country . c19-105-ft-data-bi</p>**
 
-<img src="Photo\nueva_york.jpg" width="1010" height="250">
+<img src="Photo\nueva_york.jpg" width="1010" height="300">
 
 #  **<p align="center">Análisis sobre la Relación entre Hospedajes y Servicios Locales en la Ciudad de Nueva York</p>**
 
@@ -19,8 +19,7 @@ La ciudad de Nueva York abarca cinco divisiones administrativas a nivel de conda
 
 ### **3- Insights.**
 
-<img src="Photo\Airbnb.png" width="250" height="75">
-<img src="Photo\yelp.png" width="250" height="95">
+<img src="Photo\dato_airbnb.jpg" width="1010" height="500">
 
 ### **4- Colaboradores.**
 El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto.
@@ -49,4 +48,4 @@ El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto
 - Dashboard: [Power BI]()
 - Datasets: [Airbnb](https://insideairbnb.com/) y [Yelp](https://www.yelp.com/dataset)
 - Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
-- Registro de reuniones: [Word]()
+- Registro de reuniones: [PDF](Actividades semanales.pdf)
