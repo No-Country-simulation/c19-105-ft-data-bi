@@ -1,6 +1,6 @@
 **<p align="center">Proyecto de Data-BI de No Country . c19-105-ft-data-bi</p>**
 
-<img src="Photo\nueva_york.jpg" width="1010" height="300">
+<img src="Photo\nueva_york.jpg" width="1010" height="280">
 
 #  **<p align="center">Análisis sobre la Relación entre Hospedajes y Servicios Locales en la Ciudad de Nueva York</p>**
 
