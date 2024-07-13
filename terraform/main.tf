@@ -1,11 +1,10 @@
 terraform {
-    required_providers {
-        gdrive = {
-        source  = "mshr-h/terraform-provider-gdrive"
-        version = "0.1.0"
-        }
+  required_providers {
+    gdrive = {
+      source = "hanneshayashi/gdrive"
+      version = "~> 1.0"
     }
-    
+  }
 }
 
 # Use a Service Account Key from a JSON file
@@ -20,13 +19,9 @@ resource "gdrive_file" "data_dir_drive" {
   name      = "data" # The name of the folder
 }
 
-data "external" "csv_files" {
-  program = ["bash", "./list_csv_files.sh", var.data_folder_dir]
-}
-
 # Updload a CSV file and import it as a Google Sheet
 resource "gdrive_file" "import_csv" {
-  for_each        = toset(data.external.csv_files.result)
+  for_each        = fileset(var.data_folder_dir, "*.csv")
   name             = each.value
   mime_type        = "application/vnd.google-apps.spreadsheet"
   mime_type_source = "text/csv"
