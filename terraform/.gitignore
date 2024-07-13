@@ -1,3 +1,7 @@
+# Ignore to exclude files from version control
+#main.tf
+#variables.tf
+
 # Local .terraform directories
 **/.terraform/*
 

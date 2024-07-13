@@ -11,7 +11,7 @@ terraform {
 # Use a Service Account Key from a JSON file
 provider "gdrive" {
   service_account_key = file(var.credentials_drive) # The path to the GCP credentials file
-  subject             = "orrnocountry@gmail.com" # The email of the user to impersonate
+  subject             = var.email # The email of the user to impersonate
 }
 
 resource "gdrive_file" "data_dir_drive" {

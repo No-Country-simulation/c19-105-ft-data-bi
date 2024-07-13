@@ -3,10 +3,15 @@ variable "credentials_drive" {
   default     = "path/to/credentials.json"
 }
 
+variable "email" {
+  description = "The email of the user to impersonate"
+  default     = "example@gmail.com"
+}
+
 # This will create the folder in the root of the Google Drive
 variable "data_folder_dir" {
   description = "The path where the data is located"
-  default     = "../data"
+  default     = "path/to/data"
 }
 
 # This will create the folder in the root of the Google Drive
