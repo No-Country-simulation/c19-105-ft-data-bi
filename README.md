@@ -17,7 +17,7 @@ La ciudad de Nueva York (imagen izquierda) abarca cinco divisiones administrativ
 <img src="Photo\mapsNY.jpg" width="1010" height="430">
 
 ### **2- Insights.**
-### Área de espacios verdes urbanos (m2) por habitante de la ciudad de Nueva York.
+### Área de espacios verdes urbanos (m2) por habitante de la ciudad de Nueva York (Ejemplo).
 <img src="Photo\UrbanGREEN.png" width="1010" height="600">
 
 ### **3- Colaboradores.**
