@@ -1,4 +1,4 @@
-**<p align="center">Proyecto de Data-BI de No Country . c19-105-ft-data-bi . La Finalisima</p>**
+**<p align="center">Proyecto de Data-BI de No Country . c19-105-ft-data-bi . Grupo: Finalissima</p>**
 
 <img src="Photo\nueva_york.jpg" width="1010" height="280">
 
