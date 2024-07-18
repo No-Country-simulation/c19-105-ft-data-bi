@@ -1,6 +1,6 @@
-**<p align="center">Proyecto de Data-BI de No Country . c19-105-ft-data-bi . La Finalisima</p>**
+**<p align="center">Proyecto de Data-BI de No Country . c19-105-ft-data-bi . Grupo: Finalissima</p>**
 
-<img src="Photo\nueva_york.jpg" width="1010" height="280">
+<img src="Photo\nueva_york.jpg" width="1010" height="300">
 
 #  **<p align="center">Análisis de Datos de la Ciudad de Nueva York</p>**
 
@@ -14,7 +14,7 @@ El objetivo de este proyecto es analizar datos generados en la ciudad de Nueva Y
 La ciudad de Nueva York (imagen izquierda) abarca cinco divisiones administrativas a nivel de condado llamadas boroughs: El Bronx, Brooklyn, Manhattan, Queens y Staten Island. Se realizó el análisis de datos por cada borough usando datasets de las plataformas de Airbnb y NYC Open Data.
 
 
-<img src="Photo\mapsNY.jpg" width="1010" height="300">
+<img src="Photo\mapsNY.jpg" width="1010" height="350">
 
 ### **2- Insights.**
 ### Área de espacios verdes urbanos (m2) por habitante de la ciudad de Nueva York.
