@@ -34,7 +34,7 @@ El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto
   - Lucel Da Silva: Data scientist / Data analyst [Linkedin](https://www.linkedin.com/in/luceldasilva/) 
 
 **No Country:**
- - Pablo Fragoso Valdez: Team Leader [Linkedin]()
+ - Pablo Fragoso Valdez: Team Leader [Linkedin](https://linkedin.com/in/fragoso-valdez-pablo)
 
 
 ### **4- Tecnologías utilizadas.**
