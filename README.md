@@ -17,8 +17,11 @@ La ciudad de Nueva York (imagen izquierda) abarca cinco divisiones administrativ
 <img src="Photo\mapsNY.jpg" width="1010" height="430">
 
 ### **2- Insights.**
-### Área de espacios verdes urbanos (m2) por habitante de la ciudad de Nueva York (Ejemplo).
-<img src="Photo\UrbanGREEN.png" width="1010" height="600">
+### Capacidad de alojamiento de la ciudad de Nueva York por borough.
+<img src="Photo\NY.jpg" width="1010" height="400">
+
+### Capacidad de alojamiento de Brooklyn.
+<img src="Photo\NY_Brooklyn.jpg" width="1010" height="400">
 
 ### **3- Colaboradores.**
 El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto.
