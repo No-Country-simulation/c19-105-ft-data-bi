@@ -18,7 +18,7 @@ La ciudad de Nueva York (imagen izquierda) abarca cinco divisiones administrativ
 
 ### **2- Insights.**
 ### Capacidad de alojamiento de la ciudad de Nueva York por borough.
-<img src="Photo\NY.jpg" width="1010" height="400">
+<img src="Photo\NY.jpg" width="900" height="400">
 
 ### Capacidad de alojamiento de Brooklyn.
 <img src="Photo\NY_Brooklyn.jpg" width="1010" height="400">
