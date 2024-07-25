@@ -39,9 +39,7 @@ El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto
 
 ### **4- Tecnologías utilizadas.**
 - Herramientas de BI: Power BI.
-- Lenguajes de Programación: Python | SQL | DAX.
-- Herramientas de Big Data: Hadoop | Spark | Apache Kafka.
-- Bases de Datos: MySQL | PostgreSQL.
+- Lenguajes de Programación: Python.
 - Nube: Drive.
 
 
