@@ -9,7 +9,7 @@ Somos Smart Data, ofrecemos servicios de consultoría en análisis de datos a di
 
 ### **1- Descripción del proyecto.**
 
-El objetivo de este proyecto es analizar datos generados en la ciudad de Nueva Yor (Estados Unidos) y  proporcionar insights valiosos que puedan ayudar a nuestros clientes en el sector de turismo y alojamiento.
+El objetivo de este proyecto es analizar datos generados en la ciudad de Nueva York (Estados Unidos) y  proporcionar insights valiosos que puedan ayudar a nuestros clientes en el sector de turismo y alojamiento.
 
 La ciudad de Nueva York (imagen izquierda) abarca cinco divisiones administrativas a nivel de condado llamadas boroughs: El Bronx, Brooklyn, Manhattan, Queens y Staten Island. Se realizó el análisis de datos por cada borough usando datasets de las plataformas de Airbnb y NYC Open Data.
 
