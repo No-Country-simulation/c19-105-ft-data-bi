@@ -27,7 +27,7 @@ La ciudad de Nueva York (imagen izquierda) abarca cinco divisiones administrativ
 El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto.
 
 **Grupo c19-105-ft-data-bi:**
-  - Oscar Rico:  Data engineer / Data scientist [Linkedin](https://www.linkedin.com/in/orr21/)
+  - Oscar Rico:  Data engineer / Business Intelligence [Linkedin](https://www.linkedin.com/in/orr21/)
   - Alejandro Villalba: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/alevillalba/) 
   - Bruno Olivera: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/bruno-olivera-6837a5196/)
   - Hernán Pizarro: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/)
