@@ -42,7 +42,7 @@ El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto
 
 
 ### **5- Enlaces del Proyecto.**
-- Dashboard: [Power BI]()
+- Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTg3ZTkxOWItMGYxNy00ZWEwLWIwOTQtY2IwZTU0ODNmOTI2IiwidCI6ImE1MTQ1M2U2LTc1YjItNDE2Ni05MDFlLTI5ZTA4NWQxOWZmYSIsImMiOjR9)
 - Datasets: [Airbnb](https://insideairbnb.com/) y [NYC Open Data](https://data.cityofnewyork.us/browse?q=&sortBy=newest&utf8=%E2%9C%93)
 - Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
 - Registro de reuniones: [PDF](https://github.com/No-Country-simulation/c19-105-ft-data-bi/blob/main/Actividades%20semanales.pdf)
