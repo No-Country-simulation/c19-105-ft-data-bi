@@ -49,7 +49,7 @@ El grupo asigno roles primarios/roles secundarios a cada integrante del proyecto
 
 **Grupo c19-105-ft-data-bi:**
   - Oscar Rico:  Data engineer / Business Intelligence [Linkedin](https://www.linkedin.com/in/orr21/)
-  - Alejandro Villalba: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/alevillalba/) 
+  - Alejandro Villalba: Data analyst / Business Intelligence [Linkedin](https://www.linkedin.com/in/alevillalba/) 
   - Bruno Olivera: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/bruno-olivera-6837a5196/)
   - Hernán Pizarro: Data analyst / Data scientist [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/)
   - Lucel Da Silva: Data scientist / Data analyst [Linkedin](https://www.linkedin.com/in/luceldasilva/) 
